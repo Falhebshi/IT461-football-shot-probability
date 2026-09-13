@@ -1,0 +1,501 @@
+match_id,match_date,competition,season,home_team,away_team
+3895348,2024-05-18,Germany - 1. Bundesliga,2023/2024,Bayer Leverkusen,Augsburg
+3895275,2024-03-17,Germany - 1. Bundesliga,2023/2024,Freiburg,Bayer Leverkusen
+3895134,2023-11-04,Germany - 1. Bundesliga,2023/2024,Hoffenheim,Bayer Leverkusen
+3895139,2023-11-12,Germany - 1. Bundesliga,2023/2024,Bayer Leverkusen,Union Berlin
+3895182,2023-12-20,Germany - 1. Bundesliga,2023/2024,Bayer Leverkusen,Bochum
+3895060,2023-08-26,Germany - 1. Bundesliga,2023/2024,Borussia Mönchengladbach,Bayer Leverkusen
+3895052,2023-08-19,Germany - 1. Bundesliga,2023/2024,Bayer Leverkusen,RB Leipzig
+3890463,2016-02-28,Germany - 1. Bundesliga,2015/2016,FSV Mainz 05,Bayer Leverkusen
+3890409,2015-12-19,Germany - 1. Bundesliga,2015/2016,Ingolstadt,Bayer Leverkusen
+3890395,2015-12-12,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,Borussia Mönchengladbach
+3890346,2015-10-24,Germany - 1. Bundesliga,2015/2016,Bayer Leverkusen,VfB Stuttgart
+3890301,2015-09-20,Germany - 1. Bundesliga,2015/2016,Borussia Dortmund,Bayer Leverkusen
+3920399,2024-01-19,Africa - African Cup of Nations,2023,Cape Verde Islands,Mozambique
+3920413,2024-01-23,Africa - African Cup of Nations,2023,Gambia,Cameroon
+3920417,2024-01-24,Africa - African Cup of Nations,2023,Namibia,Mali
+3920412,2024-01-23,Africa - African Cup of Nations,2023,Guinea,Senegal
+3923880,2024-02-10,Africa - African Cup of Nations,2023,South Africa,Congo DR
+3920419,2024-01-24,Africa - African Cup of Nations,2023,Zambia,Morocco
+22912,2019-06-01,Europe - Champions League,2018/2019,Tottenham Hotspur,Liverpool
+18242,2015-06-06,Europe - Champions League,2014/2015,Juventus,Barcelona
+3750240,1999-11-23,Europe - Champions League,1999/2000,Fiorentina,Manchester United
+3939987,2024-07-01,South America - Copa America,2024,Jamaica,Venezuela
+3939975,2024-06-24,South America - Copa America,2024,Colombia,Paraguay
+3939988,2024-07-01,South America - Copa America,2024,Mexico,Ecuador
+3942416,2024-07-06,South America - Copa America,2024,Colombia,Panama
+3943077,2024-07-15,South America - Copa America,2024,Argentina,Colombia
+3939984,2024-06-28,South America - Copa America,2024,Colombia,Costa Rica
+3750248,1984-05-05,Spain - Copa del Rey,1983/1984,Athletic Club,Barcelona
+3913155,2024-03-23,England - FA Women's Super League,2023/2024,Manchester City WFC,Manchester United W
+3913115,2023-12-17,England - FA Women's Super League,2023/2024,Aston Villa W,Brighton & Hove Albion WFC
+3913134,2024-02-04,England - FA Women's Super League,2023/2024,Chelsea FCW,Everton LFC
+3913069,2023-10-14,England - FA Women's Super League,2023/2024,Chelsea FCW,West Ham United LFC
+3913174,2024-04-28,England - FA Women's Super League,2023/2024,Bristol City WFC,Manchester City WFC
+3913182,2024-05-04,England - FA Women's Super League,2023/2024,Brighton & Hove Albion WFC,Aston Villa W
+3913150,2024-03-17,England - FA Women's Super League,2023/2024,Brighton & Hove Albion WFC,Manchester City WFC
+3913141,2024-03-03,England - FA Women's Super League,2023/2024,Aston Villa W,Liverpool WFC
+3913135,2024-02-17,England - FA Women's Super League,2023/2024,Arsenal WFC,Manchester United W
+3913117,2024-01-20,England - FA Women's Super League,2023/2024,Arsenal WFC,Everton LFC
+3913103,2023-11-26,England - FA Women's Super League,2023/2024,Chelsea FCW,Leicester City WFC
+3912594,2023-10-01,England - FA Women's Super League,2023/2024,Bristol City WFC,Leicester City WFC
+3913073,2023-10-15,England - FA Women's Super League,2023/2024,Arsenal WFC,Aston Villa W
+3912593,2023-10-01,England - FA Women's Super League,2023/2024,West Ham United LFC,Manchester City WFC
+3913177,2024-05-05,England - FA Women's Super League,2023/2024,Manchester City WFC,Arsenal WFC
+3913159,2024-03-30,England - FA Women's Super League,2023/2024,Aston Villa W,Leicester City WFC
+3913140,2024-02-18,England - FA Women's Super League,2023/2024,Leicester City WFC,Bristol City WFC
+3913133,2024-02-04,England - FA Women's Super League,2023/2024,Manchester United W,Brighton & Hove Albion WFC
+3913124,2024-01-28,England - FA Women's Super League,2023/2024,Bristol City WFC,West Ham United LFC
+3913102,2023-11-26,England - FA Women's Super League,2023/2024,Manchester City WFC,Tottenham Hotspur Women
+3913090,2023-11-12,England - FA Women's Super League,2023/2024,Manchester United W,West Ham United LFC
+3913083,2023-11-05,England - FA Women's Super League,2023/2024,Arsenal WFC,Manchester City WFC
+3913070,2023-10-15,England - FA Women's Super League,2023/2024,Liverpool WFC,Everton LFC
+3775563,2021-05-09,England - FA Women's Super League,2020/2021,Manchester United W,Everton LFC
+3775568,2021-04-28,England - FA Women's Super League,2020/2021,Birmingham City WFC,Aston Villa W
+3775629,2021-01-24,England - FA Women's Super League,2020/2021,Brighton & Hove Albion WFC,Manchester City WFC
+3775581,2021-03-28,England - FA Women's Super League,2020/2021,Chelsea FCW,Aston Villa W
+3775579,2021-05-02,England - FA Women's Super League,2020/2021,Reading WFC,Brighton & Hove Albion WFC
+3775553,2020-11-08,England - FA Women's Super League,2020/2021,Birmingham City WFC,West Ham United LFC
+3775641,2020-11-14,England - FA Women's Super League,2020/2021,Aston Villa W,Birmingham City WFC
+3775636,2020-10-18,England - FA Women's Super League,2020/2021,Bristol City WFC,Birmingham City WFC
+3775643,2021-03-17,England - FA Women's Super League,2020/2021,West Ham United LFC,Birmingham City WFC
+3775550,2021-03-17,England - FA Women's Super League,2020/2021,Everton LFC,Chelsea FCW
+3775575,2020-10-03,England - FA Women's Super League,2020/2021,Aston Villa W,Everton LFC
+3775558,2020-12-13,England - FA Women's Super League,2020/2021,Reading WFC,Manchester United W
+3775572,2020-10-04,England - FA Women's Super League,2020/2021,Birmingham City WFC,Chelsea FCW
+3775541,2021-03-07,England - FA Women's Super League,2020/2021,Manchester United W,Aston Villa W
+3775632,2020-12-06,England - FA Women's Super League,2020/2021,Everton LFC,Manchester City WFC
+3775598,2021-03-14,England - FA Women's Super League,2020/2021,Reading WFC,Tottenham Hotspur Women
+3775647,2021-01-17,England - FA Women's Super League,2020/2021,Birmingham City WFC,Brighton & Hove Albion WFC
+3775657,2020-10-04,England - FA Women's Super League,2020/2021,Arsenal WFC,Bristol City WFC
+3775642,2021-03-17,England - FA Women's Super League,2020/2021,Aston Villa W,Brighton & Hove Albion WFC
+3775646,2021-01-27,England - FA Women's Super League,2020/2021,Aston Villa W,Chelsea FCW
+3775599,2021-04-20,England - FA Women's Super League,2020/2021,West Ham United LFC,Aston Villa W
+2275136,2019-09-07,England - FA Women's Super League,2019/2020,Manchester City WFC,Manchester United W
+2275057,2020-02-02,England - FA Women's Super League,2019/2020,Chelsea FCW,West Ham United LFC
+2275117,2019-12-15,England - FA Women's Super League,2019/2020,Everton LFC,Arsenal WFC
+2275040,2019-10-13,England - FA Women's Super League,2019/2020,Brighton & Hove Albion WFC,West Ham United LFC
+2275045,2019-12-15,England - FA Women's Super League,2019/2020,Liverpool WFC,Chelsea FCW
+2275104,2019-12-01,England - FA Women's Super League,2019/2020,Arsenal WFC,Bristol City WFC
+2275108,2019-09-29,England - FA Women's Super League,2019/2020,Bristol City WFC,Chelsea FCW
+2275132,2019-09-08,England - FA Women's Super League,2019/2020,Chelsea FCW,Tottenham Hotspur Women
+2275130,2019-12-08,England - FA Women's Super League,2019/2020,Chelsea FCW,Manchester City WFC
+2275126,2019-11-24,England - FA Women's Super League,2019/2020,Everton LFC,Tottenham Hotspur Women
+19746,2018-10-28,England - FA Women's Super League,2018/2019,Everton LFC,West Ham United LFC
+19766,2018-11-25,England - FA Women's Super League,2018/2019,Arsenal WFC,Brighton & Hove Albion WFC
+19810,2019-04-21,England - FA Women's Super League,2018/2019,Liverpool WFC,Bristol City WFC
+19748,2018-10-28,England - FA Women's Super League,2018/2019,Chelsea FCW,Liverpool WFC
+19783,2019-01-06,England - FA Women's Super League,2018/2019,Chelsea FCW,Everton LFC
+19777,2018-12-09,England - FA Women's Super League,2018/2019,Yeovil Town LFC,West Ham United LFC
+19787,2019-01-13,England - FA Women's Super League,2018/2019,Birmingham City WFC,Bristol City WFC
+19792,2019-01-27,England - FA Women's Super League,2018/2019,Bristol City WFC,Yeovil Town LFC
+19732,2018-09-30,England - FA Women's Super League,2018/2019,Liverpool WFC,Reading WFC
+19720,2018-09-19,England - FA Women's Super League,2018/2019,Bristol City WFC,Chelsea FCW
+19797,2019-02-20,England - FA Women's Super League,2018/2019,Arsenal WFC,Yeovil Town LFC
+19784,2019-01-13,England - FA Women's Super League,2018/2019,Brighton & Hove Albion WFC,Everton LFC
+3857290,2022-11-24,International - FIFA World Cup,2022,Switzerland,Cameroon
+3869321,2022-12-09,International - FIFA World Cup,2022,Netherlands,Argentina
+3857295,2022-11-27,International - FIFA World Cup,2022,Japan,Costa Rica
+3857289,2022-11-26,International - FIFA World Cup,2022,Argentina,Mexico
+3869420,2022-12-09,International - FIFA World Cup,2022,Croatia,Brazil
+3857270,2022-11-28,International - FIFA World Cup,2022,Portugal,Uruguay
+7545,2018-06-21,International - FIFA World Cup,2018,Argentina,Croatia
+7536,2018-06-18,International - FIFA World Cup,2018,Belgium,Panama
+7555,2018-06-24,International - FIFA World Cup,2018,Poland,Colombia
+7530,2018-06-16,International - FIFA World Cup,2018,France,Australia
+7533,2018-06-17,International - FIFA World Cup,2018,Brazil,Switzerland
+7579,2018-06-30,International - FIFA World Cup,2018,Uruguay,Portugal
+8652,2018-07-07,International - FIFA World Cup,2018,Russia,Croatia
+3888720,1974-07-07,International - FIFA World Cup,1974,Netherlands,Germany
+3888705,1958-06-29,International - FIFA World Cup,1958,Brazil,Sweden
+3911800,2023-12-11,Germany - Frauen Bundesliga,2023/2024,Bayern München W,TSV Bayer 04 Leverkusen
+3912203,2024-02-10,Germany - Frauen Bundesliga,2023/2024,Köln,Bayern München W
+3912255,2024-05-20,Germany - Frauen Bundesliga,2023/2024,Nürnberg W,Duisburg WFC
+3912246,2024-05-05,Germany - Frauen Bundesliga,2023/2024,SV Werder Bremen,Duisburg WFC
+3912239,2024-04-22,Germany - Frauen Bundesliga,2023/2024,Bayern München W,SV Werder Bremen
+3912240,2024-04-19,Germany - Frauen Bundesliga,2023/2024,RB Leipzig W,TSV Bayer 04 Leverkusen
+3912233,2024-04-14,Germany - Frauen Bundesliga,2023/2024,Duisburg WFC,Bayern München W
+3912253,2024-05-13,Germany - Frauen Bundesliga,2023/2024,Eintracht Frankfurt W,SC Freiburg
+3912224,2024-03-23,Germany - Frauen Bundesliga,2023/2024,VfL Wolfsburg WFC,Bayern München W
+3912199,2024-02-03,Germany - Frauen Bundesliga,2023/2024,SV Werder Bremen,Nürnberg W
+3911796,2023-11-18,Germany - Frauen Bundesliga,2023/2024,Nürnberg W,Eintracht Frankfurt W
+3911774,2023-10-21,Germany - Frauen Bundesliga,2023/2024,SGS Essen 19/68,SV Werder Bremen
+3912248,2024-05-10,Germany - Frauen Bundesliga,2023/2024,RB Leipzig W,Hoffenheim W
+3912236,2024-04-20,Germany - Frauen Bundesliga,2023/2024,SGS Essen 19/68,Hoffenheim W
+3912213,2024-03-10,Germany - Frauen Bundesliga,2023/2024,Köln,SV Werder Bremen
+3912194,2024-02-04,Germany - Frauen Bundesliga,2023/2024,Eintracht Frankfurt W,SGS Essen 19/68
+3911794,2023-11-19,Germany - Frauen Bundesliga,2023/2024,TSV Bayer 04 Leverkusen,RB Leipzig W
+3911772,2023-10-16,Germany - Frauen Bundesliga,2023/2024,Duisburg WFC,SGS Essen 19/68
+3817877,2022-02-18,India - Indian Super league,2021/2022,NorthEast United,Bengaluru
+3817880,2022-02-16,India - Indian Super league,2021/2022,Odisha,Chennaiyin
+3817873,2022-02-12,India - Indian Super league,2021/2022,Mohun Bagan Super Giant,NorthEast United
+3817896,2022-02-07,India - Indian Super league,2021/2022,East Bengal,Odisha
+3817868,2022-01-26,India - Indian Super league,2021/2022,Bengaluru,Chennaiyin
+3817867,2022-01-25,India - Indian Super league,2021/2022,Mumbai City,NorthEast United
+3813302,2022-01-06,India - Indian Super league,2021/2022,Jamshedpur,NorthEast United
+3813282,2021-12-19,India - Indian Super league,2021/2022,Mumbai City,Kerala Blasters
+3817879,2022-01-13,India - Indian Super league,2021/2022,Chennaiyin,SC Delhi
+3817849,2022-01-10,India - Indian Super league,2021/2022,Mumbai City,Bengaluru
+3813307,2021-12-20,India - Indian Super league,2021/2022,Jamshedpur,Bengaluru
+3813310,2021-12-12,India - Indian Super league,2021/2022,East Bengal,Kerala Blasters
+3813290,2021-12-13,India - Indian Super league,2021/2022,SC Delhi,NorthEast United
+3813277,2021-11-27,India - Indian Super league,2021/2022,Mumbai City,SC Delhi
+3813276,2021-12-17,India - Indian Super league,2021/2022,NorthEast United,East Bengal
+3813265,2022-01-07,India - Indian Super league,2021/2022,East Bengal,Mumbai City
+3773386,2020-10-31,Spain - La Liga,2020/2021,Deportivo Alavés,Barcelona
+3773665,2021-03-06,Spain - La Liga,2020/2021,Osasuna,Barcelona
+3773593,2020-09-27,Spain - La Liga,2020/2021,Barcelona,Villarreal
+3773585,2020-10-24,Spain - La Liga,2020/2021,Barcelona,Real Madrid
+3773369,2021-03-15,Spain - La Liga,2020/2021,Barcelona,Huesca
+3773547,2020-11-29,Spain - La Liga,2020/2021,Barcelona,Osasuna
+3764440,2021-02-24,Spain - La Liga,2020/2021,Barcelona,Elche
+303532,2020-06-16,Spain - La Liga,2019/2020,Barcelona,Leganés
+303664,2019-12-14,Spain - La Liga,2019/2020,Real Sociedad,Barcelona
+303680,2020-07-11,Spain - La Liga,2019/2020,Real Valladolid,Barcelona
+303610,2020-01-19,Spain - La Liga,2019/2020,Barcelona,Granada
+15998,2018-09-26,Spain - La Liga,2018/2019,Leganés,Barcelona
+16073,2018-11-24,Spain - La Liga,2018/2019,Atlético Madrid,Barcelona
+16086,2018-12-08,Spain - La Liga,2018/2019,Espanyol,Barcelona
+16265,2019-04-20,Spain - La Liga,2018/2019,Barcelona,Real Sociedad
+15946,2018-08-18,Spain - La Liga,2018/2019,Barcelona,Deportivo Alavés
+16157,2019-02-02,Spain - La Liga,2018/2019,Barcelona,Valencia
+16275,2019-04-23,Spain - La Liga,2018/2019,Deportivo Alavés,Barcelona
+9912,2018-04-29,Spain - La Liga,2017/2018,RC Deportivo La Coruña,Barcelona
+9575,2017-08-20,Spain - La Liga,2017/2018,Barcelona,Real Betis
+9695,2017-11-26,Spain - La Liga,2017/2018,Valencia,Barcelona
+9948,2018-05-20,Spain - La Liga,2017/2018,Barcelona,Real Sociedad
+266989,2016-11-06,Spain - La Liga,2016/2017,Sevilla,Barcelona
+266516,2017-01-29,Spain - La Liga,2016/2017,Real Betis,Barcelona
+266952,2017-05-06,Spain - La Liga,2016/2017,Barcelona,Villarreal
+266191,2016-11-27,Spain - La Liga,2016/2017,Real Sociedad,Barcelona
+3825896,2016-04-21,Spain - La Liga,2015/2016,Granada,Levante UD
+3825834,2016-04-17,Spain - La Liga,2015/2016,Atlético Madrid,Granada
+3825897,2016-04-16,Spain - La Liga,2015/2016,Eibar,Real Sociedad
+3825814,2016-03-12,Spain - La Liga,2015/2016,Celta Vigo,Real Sociedad
+3825804,2016-03-05,Spain - La Liga,2015/2016,RC Deportivo La Coruña,Málaga
+3825805,2016-03-05,Spain - La Liga,2015/2016,Villarreal,Las Palmas
+3825782,2016-02-21,Spain - La Liga,2015/2016,Granada,Valencia
+3825799,2016-03-02,Spain - La Liga,2015/2016,Málaga,Valencia
+3825796,2016-03-01,Spain - La Liga,2015/2016,Las Palmas,Getafe
+3825790,2016-02-27,Spain - La Liga,2015/2016,Sporting Gijón,Espanyol
+3825787,2016-02-27,Spain - La Liga,2015/2016,Real Madrid,Atlético Madrid
+3825780,2016-02-20,Spain - La Liga,2015/2016,Espanyol,RC Deportivo La Coruña
+3825572,2015-08-29,Spain - La Liga,2015/2016,Real Madrid,Real Betis
+3825704,2015-12-20,Spain - La Liga,2015/2016,Granada,Celta Vigo
+3825698,2015-12-19,Spain - La Liga,2015/2016,RC Deportivo La Coruña,Eibar
+3825693,2015-12-13,Spain - La Liga,2015/2016,Atlético Madrid,Athletic Club
+3825695,2015-12-13,Spain - La Liga,2015/2016,Villarreal,Real Madrid
+3825665,2015-11-22,Spain - La Liga,2015/2016,Granada,Athletic Club
+3825570,2015-08-24,Spain - La Liga,2015/2016,Granada,Eibar
+3825904,2016-05-08,Spain - La Liga,2015/2016,Eibar,Real Betis
+3825898,2016-04-02,Spain - La Liga,2015/2016,Celta Vigo,RC Deportivo La Coruña
+3825886,2016-04-23,Spain - La Liga,2015/2016,Rayo Vallecano,Real Madrid
+3825879,2016-03-13,Spain - La Liga,2015/2016,Las Palmas,Real Madrid
+3825872,2016-04-02,Spain - La Liga,2015/2016,Atlético Madrid,Real Betis
+3825865,2016-05-08,Spain - La Liga,2015/2016,Getafe,Sporting Gijón
+3825864,2016-04-30,Spain - La Liga,2015/2016,Real Sociedad,Real Madrid
+3825862,2016-04-19,Spain - La Liga,2015/2016,Espanyol,Celta Vigo
+3825861,2016-05-08,Spain - La Liga,2015/2016,Real Sociedad,Rayo Vallecano
+3825654,2015-11-07,Spain - La Liga,2015/2016,Celta Vigo,Valencia
+3825651,2015-11-01,Spain - La Liga,2015/2016,Espanyol,Granada
+3825649,2015-11-01,Spain - La Liga,2015/2016,Sporting Gijón,Málaga
+3825747,2016-01-24,Spain - La Liga,2015/2016,Athletic Club,Eibar
+3825742,2016-01-23,Spain - La Liga,2015/2016,Granada,Getafe
+3825741,2016-01-22,Spain - La Liga,2015/2016,Sporting Gijón,Real Sociedad
+3825727,2016-01-10,Spain - La Liga,2015/2016,Eibar,Espanyol
+3825717,2016-01-03,Spain - La Liga,2015/2016,Granada,Sevilla
+3825709,2015-12-30,Spain - La Liga,2015/2016,Sevilla,Espanyol
+3825640,2015-10-25,Spain - La Liga,2015/2016,Levante UD,Real Sociedad
+3825634,2015-10-24,Spain - La Liga,2015/2016,Granada,Real Betis
+3825627,2015-10-17,Spain - La Liga,2015/2016,Barcelona,Rayo Vallecano
+3825624,2015-10-17,Spain - La Liga,2015/2016,Eibar,Sevilla
+3825606,2015-09-26,Spain - La Liga,2015/2016,Real Madrid,Málaga
+3825603,2015-09-24,Spain - La Liga,2015/2016,Real Betis,RC Deportivo La Coruña
+3825599,2015-09-22,Spain - La Liga,2015/2016,Espanyol,Valencia
+3825593,2015-09-19,Spain - La Liga,2015/2016,Eibar,Atlético Madrid
+3825575,2015-08-30,Spain - La Liga,2015/2016,Las Palmas,Levante UD
+265894,2016-01-23,Spain - La Liga,2015/2016,Málaga,Barcelona
+267611,2015-09-26,Spain - La Liga,2015/2016,Barcelona,Las Palmas
+266885,2015-11-28,Spain - La Liga,2015/2016,Barcelona,Real Sociedad
+266670,2016-01-02,Spain - La Liga,2015/2016,Espanyol,Barcelona
+266149,2016-01-17,Spain - La Liga,2015/2016,Barcelona,Athletic Club
+266916,2015-03-08,Spain - La Liga,2014/2015,Barcelona,Rayo Vallecano
+267197,2015-05-23,Spain - La Liga,2014/2015,Barcelona,RC Deportivo La Coruña
+266320,2014-12-07,Spain - La Liga,2014/2015,Barcelona,Espanyol
+266967,2015-03-14,Spain - La Liga,2014/2015,Eibar,Barcelona
+70291,2014-01-26,Spain - La Liga,2013/2014,Barcelona,Málaga
+70277,2013-08-18,Spain - La Liga,2013/2014,Barcelona,Levante UD
+265837,2014-02-22,Spain - La Liga,2013/2014,Real Sociedad,Barcelona
+70308,2012-11-03,Spain - La Liga,2012/2013,Barcelona,Celta Vigo
+70276,2012-10-27,Spain - La Liga,2012/2013,Rayo Vallecano,Barcelona
+70307,2013-03-17,Spain - La Liga,2012/2013,Barcelona,Rayo Vallecano
+266827,2013-01-13,Spain - La Liga,2012/2013,Málaga,Barcelona
+70294,2013-02-16,Spain - La Liga,2012/2013,Granada,Barcelona
+69322,2012-03-11,Spain - La Liga,2011/2012,Racing Santander,Barcelona
+69330,2011-11-06,Spain - La Liga,2011/2012,Athletic Club,Barcelona
+69297,2011-09-24,Spain - La Liga,2011/2012,Barcelona,Atlético Madrid
+69323,2012-03-31,Spain - La Liga,2011/2012,Barcelona,Athletic Club
+69271,2011-04-23,Spain - La Liga,2010/2011,Barcelona,Osasuna
+69270,2010-11-07,Spain - La Liga,2010/2011,Getafe,Barcelona
+69245,2011-04-16,Spain - La Liga,2010/2011,Real Madrid,Barcelona
+69296,2011-01-29,Spain - La Liga,2010/2011,Hércules,Barcelona
+69302,2010-12-12,Spain - La Liga,2010/2011,Barcelona,Real Sociedad
+69280,2011-01-08,Spain - La Liga,2010/2011,RC Deportivo La Coruña,Barcelona
+69306,2010-11-20,Spain - La Liga,2010/2011,Almería,Barcelona
+69248,2011-02-12,Spain - La Liga,2010/2011,Sporting Gijón,Barcelona
+69210,2010-01-23,Spain - La Liga,2009/2010,Real Valladolid,Barcelona
+69237,2010-02-14,Spain - La Liga,2009/2010,Atlético Madrid,Barcelona
+69254,2009-09-22,Spain - La Liga,2009/2010,Racing Santander,Barcelona
+69292,2009-09-19,Spain - La Liga,2009/2010,Barcelona,Atlético Madrid
+69147,2008-08-31,Spain - La Liga,2008/2009,CD Numancia de Soria,Barcelona
+69149,2008-12-06,Spain - La Liga,2008/2009,Barcelona,Valencia
+69151,2007-09-29,Spain - La Liga,2007/2008,Levante UD,Barcelona
+68365,2008-03-01,Spain - La Liga,2007/2008,Atlético Madrid,Barcelona
+68366,2008-05-11,Spain - La Liga,2007/2008,Barcelona,Mallorca
+69148,2007-09-22,Spain - La Liga,2007/2008,Barcelona,Sevilla
+69141,2008-05-04,Spain - La Liga,2007/2008,Barcelona,Valencia
+69160,2007-05-05,Spain - La Liga,2006/2007,Real Sociedad,Barcelona
+68347,2006-09-30,Spain - La Liga,2006/2007,Athletic Club,Barcelona
+69164,2005-10-26,Spain - La Liga,2005/2006,Barcelona,Málaga
+68324,2006-01-22,Spain - La Liga,2005/2006,Barcelona,Deportivo Alavés
+68351,2006-02-25,Spain - La Liga,2005/2006,Real Zaragoza,Barcelona
+68317,2005-10-01,Spain - La Liga,2005/2006,Barcelona,Real Zaragoza
+68319,2005-11-19,Spain - La Liga,2005/2006,Real Madrid,Barcelona
+68353,2004-10-16,Spain - La Liga,2004/2005,Espanyol,Barcelona
+3911641,2024-06-14,Spain - Liga F,2023/2024,CD Sporting de Huelva,Real Madrid CF W
+3911549,2024-04-27,Spain - Liga F,2023/2024,Villarreal,Granada W
+3911562,2024-05-10,Spain - Liga F,2023/2024,Barcelona WFC,Athletic Club Bilbao
+3911498,2024-03-10,Spain - Liga F,2023/2024,Real Sociedad de Fútbol,Barcelona WFC
+3911525,2024-03-30,Spain - Liga F,2023/2024,Villarreal,Real Madrid CF W
+3911499,2024-03-09,Spain - Liga F,2023/2024,FC Levante Badalona,Granada W
+3911472,2024-02-04,Spain - Liga F,2023/2024,Barcelona WFC,CD Sporting de Huelva
+3911003,2023-12-17,Spain - Liga F,2023/2024,FC Levante Badalona,Real Madrid CF W
+3910971,2023-11-11,Spain - Liga F,2023/2024,Atletico Madrid W,SD Eibar
+3910983,2023-11-18,Spain - Liga F,2023/2024,Valencia CF,Athletic Club Bilbao
+3911638,2024-06-09,Spain - Liga F,2023/2024,Madrid CFF,Real Sociedad de Fútbol
+3911636,2024-06-09,Spain - Liga F,2023/2024,Barcelona WFC,Real Betis Balompié
+3911635,2024-06-09,Spain - Liga F,2023/2024,Costa Adeje Tenerife,SD Eibar
+3911625,2024-05-24,Spain - Liga F,2023/2024,Atletico Madrid W,FC Levante Badalona
+3911555,2024-05-05,Spain - Liga F,2023/2024,Real Betis Balompié,Sevilla FC
+3911553,2024-05-05,Spain - Liga F,2023/2024,Levante UD Femenino,Real Sociedad de Fútbol
+3911547,2024-04-28,Spain - Liga F,2023/2024,Real Sociedad de Fútbol,Atletico Madrid W
+3911543,2024-05-01,Spain - Liga F,2023/2024,Barcelona WFC,Madrid CFF
+3911542,2024-04-21,Spain - Liga F,2023/2024,Villarreal,Sevilla FC
+3911502,2024-03-09,Spain - Liga F,2023/2024,Costa Adeje Tenerife,Villarreal
+3911493,2024-02-17,Spain - Liga F,2023/2024,Villarreal,Real Sociedad de Fútbol
+3911295,2024-01-06,Spain - Liga F,2023/2024,Villarreal,Levante UD Femenino
+3910960,2023-10-21,Spain - Liga F,2023/2024,CD Sporting de Huelva,Atletico Madrid W
+3910957,2023-10-22,Spain - Liga F,2023/2024,Madrid CFF,Costa Adeje Tenerife
+3910951,2023-10-15,Spain - Liga F,2023/2024,CD Sporting de Huelva,Madrid CFF
+3910938,2023-10-01,Spain - Liga F,2023/2024,FC Levante Badalona,Athletic Club Bilbao
+3910748,2023-09-16,Spain - Liga F,2023/2024,Madrid CFF,Barcelona WFC
+3837876,2023-02-19,France - Ligue 1,2022/2023,Paris Saint-Germain,Lille
+3837695,2022-09-03,France - Ligue 1,2022/2023,Nantes,Paris Saint-Germain
+3802699,2021-10-29,France - Ligue 1,2021/2022,Paris Saint-Germain,Lille
+3802809,2021-10-03,France - Ligue 1,2021/2022,Rennes,Paris Saint-Germain
+3802983,2022-04-17,France - Ligue 1,2021/2022,Paris Saint-Germain,Olympique de Marseille
+3802907,2022-02-06,France - Ligue 1,2021/2022,Lille,Paris Saint-Germain
+3802837,2021-11-28,France - Ligue 1,2021/2022,Saint-Étienne,Paris Saint-Germain
+3829472,2015-09-20,France - Ligue 1,2015/2016,Olympique de Marseille,Lyon
+3829461,2015-09-13,France - Ligue 1,2015/2016,Olympique de Marseille,Bastia
+3901150,2016-02-21,France - Ligue 1,2015/2016,Olympique de Marseille,Saint-Étienne
+3901184,2016-03-18,France - Ligue 1,2015/2016,Olympique de Marseille,Rennes
+3901256,2016-05-14,France - Ligue 1,2015/2016,AS Monaco,Montpellier
+3901254,2016-05-14,France - Ligue 1,2015/2016,Stade de Reims,Lyon
+3901248,2016-05-07,France - Ligue 1,2015/2016,Lille,Guingamp
+3901242,2016-05-01,France - Ligue 1,2015/2016,Angers,Olympique de Marseille
+3901223,2016-04-17,France - Ligue 1,2015/2016,AS Monaco,Olympique de Marseille
+3901217,2016-04-16,France - Ligue 1,2015/2016,Troyes,Stade de Reims
+3901210,2016-04-09,France - Ligue 1,2015/2016,Saint-Étienne,Troyes
+3901191,2016-03-20,France - Ligue 1,2015/2016,OGC Nice,Gazélec Ajaccio
+3901173,2016-03-09,France - Ligue 1,2015/2016,Gazélec Ajaccio,Olympique de Marseille
+3901171,2016-03-06,France - Ligue 1,2015/2016,Lyon,Guingamp
+3901163,2016-03-05,France - Ligue 1,2015/2016,OGC Nice,Troyes
+3901160,2016-02-28,France - Ligue 1,2015/2016,Nantes,AS Monaco
+3901155,2016-02-27,France - Ligue 1,2015/2016,Montpellier,Lille
+3901151,2016-02-21,France - Ligue 1,2015/2016,Lille,Lyon
+3900602,2016-01-30,France - Ligue 1,2015/2016,Lorient,Stade de Reims
+3829478,2015-09-23,France - Ligue 1,2015/2016,Gazélec Ajaccio,Rennes
+3829519,2015-10-25,France - Ligue 1,2015/2016,Paris Saint-Germain,Saint-Étienne
+3900636,2016-02-13,France - Ligue 1,2015/2016,Nantes,Lorient
+3900628,2016-02-07,France - Ligue 1,2015/2016,Lille,Rennes
+3900597,2016-01-24,France - Ligue 1,2015/2016,Lyon,Olympique de Marseille
+3900582,2016-01-16,France - Ligue 1,2015/2016,Gazélec Ajaccio,Stade de Reims
+3900570,2016-01-08,France - Ligue 1,2015/2016,Paris Saint-Germain,Bastia
+3900567,2015-12-20,France - Ligue 1,2015/2016,Bordeaux,Olympique de Marseille
+3900506,2015-11-07,France - Ligue 1,2015/2016,Stade de Reims,Gazélec Ajaccio
+3900505,2015-11-07,France - Ligue 1,2015/2016,Stade Malherbe Caen,Guingamp
+3829496,2015-10-03,France - Ligue 1,2015/2016,Angers,Bastia
+3829514,2015-10-24,France - Ligue 1,2015/2016,Angers,Guingamp
+3829513,2015-10-23,France - Ligue 1,2015/2016,Stade Malherbe Caen,Nantes
+3829510,2015-10-18,France - Ligue 1,2015/2016,Rennes,OGC Nice
+3900615,2016-02-03,France - Ligue 1,2015/2016,Nantes,Gazélec Ajaccio
+3900612,2016-02-03,France - Ligue 1,2015/2016,Guingamp,Troyes
+3900579,2016-01-10,France - Ligue 1,2015/2016,Nantes,Saint-Étienne
+3900575,2016-01-09,France - Ligue 1,2015/2016,Stade de Reims,Toulouse
+3900564,2015-12-19,France - Ligue 1,2015/2016,Troyes,AS Monaco
+3900558,2015-12-13,France - Ligue 1,2015/2016,AS Monaco,Saint-Étienne
+3900557,2015-12-13,France - Ligue 1,2015/2016,Paris Saint-Germain,Lyon
+3900552,2015-12-12,France - Ligue 1,2015/2016,Montpellier,Guingamp
+3900526,2015-11-28,France - Ligue 1,2015/2016,Angers,Lille
+3900501,2015-11-07,France - Ligue 1,2015/2016,Paris Saint-Germain,Toulouse
+3900492,2015-10-31,France - Ligue 1,2015/2016,Guingamp,Lorient
+3900490,2015-10-30,France - Ligue 1,2015/2016,Rennes,Paris Saint-Germain
+3829522,2015-11-04,France - Ligue 1,2015/2016,OGC Nice,Nantes
+3829502,2015-10-16,France - Ligue 1,2015/2016,AS Monaco,Lyon
+3829497,2015-10-03,France - Ligue 1,2015/2016,Troyes,Guingamp
+3829473,2015-09-22,France - Ligue 1,2015/2016,Paris Saint-Germain,Guingamp
+3829458,2015-09-12,France - Ligue 1,2015/2016,Toulouse,Stade de Reims
+3829457,2015-09-12,France - Ligue 1,2015/2016,Montpellier,Saint-Étienne
+3829456,2015-09-12,France - Ligue 1,2015/2016,Lorient,Angers
+3829449,2015-08-29,France - Ligue 1,2015/2016,Rennes,Toulouse
+3829448,2015-08-29,France - Ligue 1,2015/2016,Stade de Reims,Lorient
+3829432,2015-08-16,France - Ligue 1,2015/2016,Paris Saint-Germain,Gazélec Ajaccio
+3829418,2015-08-08,France - Ligue 1,2015/2016,Nantes,Guingamp
+3829417,2015-08-08,France - Ligue 1,2015/2016,Troyes,Gazélec Ajaccio
+3881583,2023-08-27,United States of America - NWSL,2023,Houston Dash,KC Current
+3881606,2023-10-08,United States of America - NWSL,2023,North Carolina Courage,San Diego Wave
+3881572,2023-07-10,United States of America - NWSL,2023,Angel City,North Carolina Courage
+3881546,2023-06-11,United States of America - NWSL,2023,Washington Spirit,Angel City
+3881535,2023-05-28,United States of America - NWSL,2023,Racing Louisville FC,North Carolina Courage
+3881507,2023-04-29,United States of America - NWSL,2023,Houston Dash,North Carolina Courage
+3881577,2023-08-21,United States of America - NWSL,2023,Orlando Pride,Chicago Red Stars
+3881520,2023-05-13,United States of America - NWSL,2023,Racing Louisville FC,Chicago Red Stars
+3881607,2023-10-08,United States of America - NWSL,2023,KC Current,Chicago Red Stars
+3881603,2023-10-08,United States of America - NWSL,2023,Portland Thorns,NJ/NY Gotham FC
+3881559,2023-06-26,United States of America - NWSL,2023,NJ/NY Gotham FC,Chicago Red Stars
+3881556,2023-06-25,United States of America - NWSL,2023,San Diego Wave,Seattle Reign
+3881491,2023-04-01,United States of America - NWSL,2023,Racing Louisville FC,Washington Spirit
+3881489,2023-04-01,United States of America - NWSL,2023,KC Current,Portland Thorns
+7520,2018-06-03,United States of America - NWSL,2018,Washington Spirit,Chicago Red Stars
+7484,2018-07-15,United States of America - NWSL,2018,NJ/NY Gotham FC,North Carolina Courage
+7477,2018-07-07,United States of America - NWSL,2018,Portland Thorns,Utah Royals
+7472,2018-07-01,United States of America - NWSL,2018,Seattle Reign,Portland Thorns
+3754129,2015-08-24,England - Premier League,2015/2016,Arsenal,Liverpool
+3753984,2015-08-29,England - Premier League,2015/2016,Liverpool,West Ham United
+3754056,2015-12-28,England - Premier League,2015/2016,Everton,Stoke City
+3754079,2015-10-03,England - Premier League,2015/2016,Manchester City,Newcastle United
+3754082,2015-11-01,England - Premier League,2015/2016,Everton,Sunderland
+3754104,2015-08-22,England - Premier League,2015/2016,Norwich City,Stoke City
+3754054,2015-12-26,England - Premier League,2015/2016,Manchester City,Sunderland
+3754169,2015-09-19,England - Premier League,2015/2016,AFC Bournemouth,Sunderland
+3754096,2015-12-12,England - Premier League,2015/2016,West Ham United,Stoke City
+3754153,2015-12-19,England - Premier League,2015/2016,Stoke City,Crystal Palace
+3754130,2015-12-28,England - Premier League,2015/2016,Norwich City,Aston Villa
+3754212,2015-09-26,England - Premier League,2015/2016,Liverpool,Aston Villa
+3754288,2015-10-24,England - Premier League,2015/2016,West Ham United,Chelsea
+3754234,2015-10-25,England - Premier League,2015/2016,AFC Bournemouth,Tottenham Hotspur
+3754276,2015-12-13,England - Premier League,2015/2016,Tottenham Hotspur,Newcastle United
+3754330,2015-10-03,England - Premier League,2015/2016,Aston Villa,Stoke City
+3754336,2015-09-12,England - Premier League,2015/2016,Everton,Chelsea
+3754300,2015-08-08,England - Premier League,2015/2016,Everton,Watford
+3754138,2015-08-08,England - Premier League,2015/2016,Norwich City,Crystal Palace
+3754190,2015-08-22,England - Premier League,2015/2016,Crystal Palace,Aston Villa
+3753986,2016-04-10,England - Premier League,2015/2016,Liverpool,Stoke City
+3754002,2016-03-14,England - Premier League,2015/2016,Leicester City,Newcastle United
+3754016,2016-04-09,England - Premier League,2015/2016,Southampton,Newcastle United
+3754031,2016-02-13,England - Premier League,2015/2016,Sunderland,Manchester United
+3754032,2016-01-13,England - Premier League,2015/2016,Stoke City,Norwich City
+3754070,2016-05-07,England - Premier League,2015/2016,Aston Villa,Newcastle United
+3754081,2016-03-06,England - Premier League,2015/2016,West Bromwich Albion,Manchester United
+3754110,2016-01-23,England - Premier League,2015/2016,West Ham United,Manchester City
+3754154,2016-04-23,England - Premier League,2015/2016,Liverpool,Newcastle United
+3754161,2016-01-18,England - Premier League,2015/2016,Swansea City,Watford
+3754165,2016-05-01,England - Premier League,2015/2016,Manchester United,Leicester City
+3754172,2016-04-16,England - Premier League,2015/2016,Norwich City,Sunderland
+3754244,2016-02-13,England - Premier League,2015/2016,Norwich City,West Ham United
+3754295,2016-04-16,England - Premier League,2015/2016,Manchester United,Aston Villa
+3754271,2016-01-23,England - Premier League,2015/2016,Watford,Newcastle United
+3754292,2016-02-06,England - Premier League,2015/2016,Newcastle United,West Bromwich Albion
+3754299,2016-04-03,England - Premier League,2015/2016,Manchester United,Everton
+3754307,2016-04-23,England - Premier League,2015/2016,Manchester City,Stoke City
+3754310,2016-04-20,England - Premier League,2015/2016,Manchester United,Crystal Palace
+3754313,2016-03-12,England - Premier League,2015/2016,Norwich City,Manchester City
+3754317,2016-02-02,England - Premier League,2015/2016,Norwich City,Tottenham Hotspur
+3754321,2016-02-27,England - Premier League,2015/2016,Stoke City,Aston Villa
+3754334,2016-03-01,England - Premier League,2015/2016,AFC Bournemouth,Southampton
+3754340,2016-02-02,England - Premier League,2015/2016,West Bromwich Albion,Swansea City
+3749448,2004-04-09,England - Premier League,2003/2004,Arsenal,Liverpool
+3749253,2003-10-04,England - Premier League,2003/2004,Liverpool,Arsenal
+3749192,2003-11-30,England - Premier League,2003/2004,Arsenal,Fulham
+3749590,2003-12-06,England - Premier League,2003/2004,Leicester City,Arsenal
+3879819,2016-04-16,Italy - Serie A,2015/2016,Carpi,Genoa
+3879847,2016-04-30,Italy - Serie A,2015/2016,Udinese,Torino
+3879750,2016-02-21,Italy - Serie A,2015/2016,Atalanta,Fiorentina
+3879632,2015-11-29,Italy - Serie A,2015/2016,AS Roma,Atalanta
+3879587,2015-10-27,Italy - Serie A,2015/2016,Bologna,Inter Milan
+3879582,2015-10-25,Italy - Serie A,2015/2016,Lazio,Torino
+3879839,2016-04-24,Italy - Serie A,2015/2016,Fiorentina,Juventus
+3879836,2016-04-21,Italy - Serie A,2015/2016,AC Milan,Carpi
+3879833,2016-04-20,Italy - Serie A,2015/2016,Juventus,Lazio
+3879778,2016-03-12,Italy - Serie A,2015/2016,Empoli,Sampdoria
+3879777,2016-03-11,Italy - Serie A,2015/2016,Juventus,Sassuolo
+3879772,2016-03-06,Italy - Serie A,2015/2016,Torino,Lazio
+3879742,2016-02-14,Italy - Serie A,2015/2016,AC Milan,Genoa
+3879732,2016-02-07,Italy - Serie A,2015/2016,Torino,Chievo
+3879707,2016-01-30,Italy - Serie A,2015/2016,AS Roma,Frosinone
+3879627,2015-11-28,Italy - Serie A,2015/2016,Torino,Bologna
+3879827,2016-04-19,Italy - Serie A,2015/2016,Napoli,Bologna
+3879806,2016-04-04,Italy - Serie A,2015/2016,Bologna,Hellas Verona
+3879799,2016-04-03,Italy - Serie A,2015/2016,Lazio,AS Roma
+3879731,2016-02-07,Italy - Serie A,2015/2016,Napoli,Carpi
+3879728,2016-02-06,Italy - Serie A,2015/2016,Bologna,Fiorentina
+3879718,2016-02-03,Italy - Serie A,2015/2016,Empoli,Udinese
+3879710,2016-01-31,Italy - Serie A,2015/2016,Bologna,Sampdoria
+3879684,2016-01-10,Italy - Serie A,2015/2016,Sampdoria,Juventus
+3879656,2015-12-19,Italy - Serie A,2015/2016,Bologna,Empoli
+3879651,2015-12-13,Italy - Serie A,2015/2016,Napoli,AS Roma
+3879638,2015-12-05,Italy - Serie A,2015/2016,Inter Milan,Genoa
+3879617,2015-11-21,Italy - Serie A,2015/2016,Bologna,AS Roma
+3879597,2015-10-31,Italy - Serie A,2015/2016,Juventus,Torino
+3879592,2015-10-28,Italy - Serie A,2015/2016,AS Roma,Udinese
+3879577,2015-10-24,Italy - Serie A,2015/2016,Empoli,Genoa
+3879571,2015-10-18,Italy - Serie A,2015/2016,Atalanta,Carpi
+3879560,2015-10-04,Italy - Serie A,2015/2016,Lazio,Frosinone
+3879559,2015-10-04,Italy - Serie A,2015/2016,Juventus,Bologna
+3879539,2015-09-23,Italy - Serie A,2015/2016,Carpi,Napoli
+3878603,2015-09-19,Italy - Serie A,2015/2016,Udinese,Empoli
+3878601,2015-09-14,Italy - Serie A,2015/2016,Sampdoria,Bologna
+3878598,2015-09-13,Italy - Serie A,2015/2016,Palermo,Carpi
+3878592,2015-09-12,Italy - Serie A,2015/2016,Fiorentina,Genoa
+3912488,2023-10-22,Italy - Serie A Women,2023/2024,AC Milan W,Pomigliano
+3929000,2024-04-20,Italy - Serie A Women,2023/2024,Fiorentina W,AS Roma W
+3929013,2024-05-05,Italy - Serie A Women,2023/2024,AC Milan W,Como W
+3929016,2024-05-12,Italy - Serie A Women,2023/2024,Napoli W,AC Milan W
+3912547,2024-02-14,Italy - Serie A Women,2023/2024,Sampdoria W,AC Milan W
+3912495,2023-11-04,Italy - Serie A Women,2023/2024,Pomigliano,Sampdoria W
+3928990,2024-03-24,Italy - Serie A Women,2023/2024,Fiorentina W,FC Internazionale Milano W
+3912526,2024-01-14,Italy - Serie A Women,2023/2024,Como W,Sampdoria W
+3912499,2023-11-12,Italy - Serie A Women,2023/2024,FC Internazionale Milano W,Pomigliano
+3930178,2024-06-24,Europe - UEFA Euro,2024,Croatia,Italy
+3938637,2024-06-16,Europe - UEFA Euro,2024,Poland,Netherlands
+3942819,2024-07-10,Europe - UEFA Euro,2024,Netherlands,England
+3942752,2024-07-09,Europe - UEFA Euro,2024,Spain,France
+3938645,2024-06-26,Europe - UEFA Euro,2024,Ukraine,Belgium
+3930177,2024-06-23,Europe - UEFA Euro,2024,Scotland,Hungary
+3795220,2021-07-06,Europe - UEFA Euro,2020,Italy,Spain
+3788769,2021-06-21,Europe - UEFA Euro,2020,Russia,Denmark
+3794688,2021-06-29,Europe - UEFA Euro,2020,England,Germany
+3788759,2021-06-18,Europe - UEFA Euro,2020,England,Scotland
+3795221,2021-07-07,Europe - UEFA Euro,2020,England,Denmark
+3788746,2021-06-13,Europe - UEFA Euro,2020,Netherlands,Ukraine
+3788749,2021-06-14,Europe - UEFA Euro,2020,Poland,Slovakia
+3788742,2021-06-12,Europe - UEFA Euro,2020,Denmark,Finland
+4018356,2025-07-18,Europe - UEFA Women's Euro,2025,Spain Women's,Switzerland Women's
+4018354,2025-07-16,Europe - UEFA Women's Euro,2025,Norway Women's,Italy Women's
+3844385,2022-07-21,Europe - UEFA Women's Euro,2022,Germany Women's,Austria Women's
+3835325,2022-07-10,Europe - UEFA Women's Euro,2022,France Women's,Italy Women's
+3893825,2023-08-01,International - Women's World Cup,2023,Haiti Women's,Denmark Women's
+3893799,2023-07-24,International - Women's World Cup,2023,Germany Women's,Morocco Women's
+3893793,2023-07-22,International - Women's World Cup,2023,Zambia W,Japan Women's
+3893813,2023-07-28,International - Women's World Cup,2023,China PR Women's,Haiti Women's
+3906390,2023-08-20,International - Women's World Cup,2023,Spain Women's,England Women's
+3901733,2023-08-05,International - Women's World Cup,2023,Switzerland Women's,Spain Women's
+68312,2019-06-18,International - Women's World Cup,2019,Italy Women's,Brazil Women's
+22963,2019-06-14,International - Women's World Cup,2019,Jamaica Women's,Italy Women's
+22973,2019-06-16,International - Women's World Cup,2019,Sweden Women's,Thailand W
+22949,2019-06-12,International - Women's World Cup,2019,Germany Women's,Spain Women's
+68311,2019-06-18,International - Women's World Cup,2019,Jamaica Women's,Australia Women's
+68338,2019-06-19,International - Women's World Cup,2019,Scotland W,Argentina Women's
+22956,2019-06-13,International - Women's World Cup,2019,South Africa Women's,China PR Women's
+68337,2019-06-19,International - Women's World Cup,2019,Japan Women's,England Women's
