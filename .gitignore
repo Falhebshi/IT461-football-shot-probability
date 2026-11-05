@@ -1,1 +1,49 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets.json
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# IDE and editor settings
+.vscode/
+.idea/
+.cursor/
+
+# Operating system files
 .DS_Store
+Thumbs.db
+desktop.ini
+
+# Python testing and tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*~
