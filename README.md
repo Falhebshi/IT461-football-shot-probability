@@ -1,66 +1,60 @@
 # Football Expected Goals (xG) Prediction
 
-IT461 Practical Machine Learning Project
+IT461 Practical Machine Learning | Group 10 (Marma)
+Haya Alomar · Sara Aljuraybah · Deema Alquwaei · Fatimah Alhebshi · Aliyah Alharbi
 
 ## Overview
 
-This project investigates the use of machine learning to estimate the probability that a football shot results in a goal.
+This project estimates the probability that a non-penalty football shot results in a goal. This probability is the shot's **expected goals (xG)** value: an xG of 0.20 means that similar shots are scored about 20% of the time.
 
-The predicted probability represents the shot's **Expected Goals (xG)** value. For example, an xG value of 0.20 indicates an estimated 20% probability that the shot will result in a goal.
+### Research question
 
-### Research Question
+**How accurately can machine learning models estimate the probability that a shot results in a goal, and how much do contextual features improve prediction beyond shot location?**
 
-**How accurately can machine learning models estimate the probability that a football shot results in a goal, and how much do contextual features improve prediction beyond shot location?**
-
-The project is formulated as a **supervised binary classification problem**:
-
-- **Input:** characteristics of a football shot, including its location and contextual information.
-- **Output:** whether the shot resulted in a goal (`1`) or not (`0`).
-- **Model output:** probability of scoring, interpreted as the shot's xG value.
+- **Task:** supervised binary classification (`goal = 1`, otherwise `0`)
+- **Input:** shot location (distance and angle) and, in the context-aware setting, body part, technique, first-time, shot type, play pattern and pressure
+- **Output:** the predicted probability of a goal, i.e. the shot's xG
 
 ## Dataset
 
-The project uses publicly available football event data from **StatsBomb Open Data**.
+12,374 non-penalty shots from 500 matches of **StatsBomb Open Data**, extracted with `statsbombpy` (seed 42). Only 11.2% of the shots are goals. StatsBomb's own xG is kept as a benchmark only and is never used for training.
 
-The working dataset contains shots extracted from 500 selected matches. Penalty shots are excluded because penalties represent a substantially different scoring situation from ordinary shots.
+## How to run
 
-Each row represents one non-penalty shot.
+Open **`notebooks/IT461_Final_Implementation.ipynb`** in Google Colab and choose *Runtime → Run all* (about 10 minutes). The notebook downloads the data from this repository, installs scikit-learn 1.6.1, and runs the full pipeline: cleaning, feature engineering, training, tuning, evaluation and model selection. It saves its outputs to `results/` and `models/`.
 
-The repository keeps the original selected shot data separate from data generated during preprocessing and feature engineering.
+## Approach
 
-### Data Files
+- **Features:** location-only (distance, angle) vs context-aware (8 features)
+- **Split:** by match, 400 training matches (9,900 shots) and 100 test matches (2,474 shots), with the same goal rate in both
+- **Models:** Logistic Regression and SVM, each tuned with grid search on 3 match-grouped cross-validation folds
+- **Model selection:** lowest out-of-fold log loss on the training data, using the one-standard-error rule
 
-`data/raw/statsbomb_non_penalty_shots_raw.csv`  
-Raw non-penalty shot records used for the project.
+## Main results (test set)
 
-`data/metadata/statsbomb_selected_matches.csv`  
-Information about the StatsBomb matches included in the dataset.
+| Model | Log loss | ROC AUC | PR AUC |
+|---|---|---|---|
+| LR location-only | 0.306 | 0.754 | 0.337 |
+| **LR context-aware (selected)** | **0.284** | **0.797** | **0.431** |
+| SVM location-only | 0.307 | 0.753 | 0.337 |
+| SVM context-aware | 0.285 | 0.797 | 0.427 |
+| StatsBomb xG (benchmark) | 0.265 | 0.830 | 0.512 |
 
-`data/metadata/statsbomb_dataset_summary.csv`  
-Summary statistics and information about the extracted dataset.
+- Context features clearly improve both models, and the improvement is not chance (match-level bootstrap).
+- Logistic Regression and SVM perform almost the same; the tuned SVM chose a linear kernel.
+- Location alone overrates headers and shots under pressure and underrates counter-attacks; context corrects this.
 
-## Planned Features
+## Repository structure
 
-The project will examine two main groups of information.
+| Folder | Contents |
+|---|---|
+| `notebooks/` | `IT461_Final_Implementation.ipynb` (**the final notebook**) and the earlier per-stage notebooks (00–04) |
+| `data/raw/` | Raw non-penalty shots extracted from StatsBomb |
+| `data/processed/` | Cleaned data, modelling dataset and the fixed train/test split (`model_split.csv`) |
+| `data/metadata/` | Selected matches and a dataset summary |
+| `results/` | Test predictions, metrics and comparison tables produced by the final notebook |
+| `models/` | The four fitted models (`.joblib`) |
+| `src/` | Shared preprocessing code used by the per-stage notebooks |
+| `docs/` | Team guide and feature-engineering notes |
 
-### Location Information
-
-Shot location will be used to derive spatial features such as:
-
-- Distance to goal
-- Shooting angle
-
-### Contextual Information
-
-Contextual variables may include:
-
-- Body part
-- Shot technique
-- Shot type
-- Play pattern
-- Whether the player was under pressure
-- Whether the shot was taken first-time
-
-Player, team, event, and match identifiers may be retained for analysis and traceability but are not intended to be initial model predictors.
-
-StatsBomb's existing xG value will not be used as a training feature.
+The per-stage notebooks (00–04) show how the work was developed. The final notebook is self-contained, and its results are the official ones.
